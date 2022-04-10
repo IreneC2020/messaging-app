@@ -33,7 +33,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## You also need to install react chat engine
-### npm install react-chat-engine
+### `npm install react-chat-engine`
 
 ### Create a new project
 1. Register at chatengine.io
