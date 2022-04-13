@@ -1,5 +1,5 @@
-### This project is using react chat engine to build a messaging application
-Follow the steps below to start
+### This project is using react chat engine to build a messaging application (More to come...)
+Follow the steps below to get started. 
 
 ## Getting Started with Create React App
 
